@@ -1,0 +1,36 @@
+@font-face {
+    font-family: myfont;
+    src: url(font/Coolvetica\ Rg.otf);
+}
+
+@font-face {
+    font-family: myyfont;
+    src: url(font/Inter-VariableFont_opsz\,wght.ttf);
+}
+
+h1{
+    font-family: myfont;
+}
+
+span{
+    font-family: myfont;
+}
+
+li{
+    font-family: myfont;
+    color: #284285;
+}
+
+#hitam{
+    color:#FCFBFF;
+    font-family: myyfont;
+    text-decoration: none;
+    font-size: 10px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+#putih{
+    color:#FCFBFF;
+    font-size: 55px;
+}
